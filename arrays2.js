@@ -1,6 +1,5 @@
-// //1
-//  function printFirst(arr)
-//  { console.log(arr[0])
+//1
+// { console.log(arr[0])
 //  }
 // printFirst([3,12,7,14]);
 // printFirst(['a', 'b', 'c'])
@@ -27,17 +26,31 @@
 // { console.log('Empty array') }
 // else
 // { let lastIndex = arr.length-1 console.log(arr[lastIndex]); }
- // }
+// }
 // upgradedPrintLast([3,12,7,14]);
-// upgradedPrintLast(['a', 'b', 'c'])
+// upgradedPrintLast(['x', 'y', 'a'])
 // upgradedPrintLast([])
 
 //4
-//  function reverseArray(arr)
-//  { let lastIndex = arr.length-1;
-//      for (let i=lastIndex; i>=0; i--)
-//      { console.log(arr[i])
-//      }
-// } reverseArray([20, 10, 5, 1]);
-// reverseArray(['a', 'b', 'c', 'd', 'e']
-// )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
