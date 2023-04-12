@@ -12,24 +12,14 @@
 // printLast(['a', 'b', 'c'])
 
 //3
-//  function upgradedPrintFirst(arr)
-//  { let arrayLength = arr.length;
-//      if (arrayLength == 0)
-//      { console.log('Empty array') }
-//      else
-//      { console.log(arr[0]) } }
-// upgradedPrintFirst([3,12,7,14]);
-// upgradedPrintFirst(['a', 'b', 'c'])
-// upgradedPrintFirst([])
-// function upgradedPrintLast(arr)
-// { let arrayLength = arr.length; if (arrayLength == 0)
-// { console.log('Empty array') }
-// else
-// { let lastIndex = arr.length-1 console.log(arr[lastIndex]); }
+// function positive(n){
+// let pop = [];
+// for (let i = 1; i <= n; i++){
+// pop.push(i);
 // }
-// upgradedPrintLast([3,12,7,14]);
-// upgradedPrintLast(['x', 'y', 'a'])
-// upgradedPrintLast([])
+// console.log(pop);
+// }
+// positive(32);}
 
 //4
 
@@ -50,7 +40,3 @@
 
 
 
-
-
-
-]
