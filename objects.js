@@ -59,30 +59,30 @@
 // }
 // console.log(dog)
 
-
-let computer = {
-    motherboard:`MSI CARBON Z690 WI-FI `,
-    gpu:`RTX 3080 TI`,
-    ram:` 64GB CORSAIR `,
-    case: `CORSAIR 5000D Glass`,
-    cpu:`intel core 9`
-}
-
-let iphone12 = {
-    cameras:`6`,
-    storage:`64gb`,
-    color:`blue `,
-    case: `UBpro`,
-    features:`facial recognize`
-}
-let anime = {
-    origin: `Japenese animation`,
-    viewers: `2.88 people`,
-    generes: `more than 40`
-}
-
-let california = {
-    population: `39.24 million`,
-    Popularity: `The U.S most populous state`,
-    Diversity: `154 other races live in califronia`
-}
+//
+// let computer = {
+//     motherboard:`MSI CARBON Z690 WI-FI `,
+//     gpu:`RTX 3080 TI`,
+//     ram:` 64GB CORSAIR `,
+//     case: `CORSAIR 5000D Glass`,
+//     cpu:`intel core 9`
+// }
+//
+// let iphone12 = {
+//     cameras:`6`,
+//     storage:`64gb`,
+//     color:`blue `,
+//     case: `UBpro`,
+//     features:`facial recognize`
+// }
+// let anime = {
+//     origin: `Japenese animation`,
+//     viewers: `2.88 people`,
+//     generes: `more than 40`
+// }
+//
+// let california = {
+//     population: `39.24 million`,
+//     Popularity: `The U.S most populous state`,
+//     Diversity: `154 other races live in califronia`
+// }
